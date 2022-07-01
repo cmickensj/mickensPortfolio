@@ -1,0 +1,82 @@
+* {
+    font-family: 'Lato', sans-serif; 
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    margin: 0;
+}
+
+#hello {
+    display: grid;
+    justify-content: space-around;
+    margin-top: 250px;
+    font-size: 300%;
+    color: #063843;
+}
+
+.fwh-slide {
+    height: 100vh;
+    background: #E6F4F1;
+    box-sizing: border-box;
+    padding: 35px;
+}
+
+.fwh-slide2 {
+    height: 90vh;
+    background: #063843;
+    box-sizing: border-box;
+    padding: 100px;
+    color: #E6F4F1;
+}
+
+h2 {
+    font-size: 50px;
+}
+.port2 {
+    padding-left: 10%;
+    justify-content: space-between;
+}
+
+
+.fwh-slide3 {
+    height: 70vh;
+    background: #BA5E00;
+    box-sizing: border-box;
+    padding: 100px;
+    padding-left: 30%;
+    color: #E6F4F1;
+}
+
+.fwh-slide4 {
+    height: 100vh;
+    background: #E6F4F1;
+    box-sizing: border-box;
+    padding: 35px;
+}
+
+.footer {
+    height: 13vh;
+    background-color: lightblue;
+    box-sizing: border-box;
+    padding: 20px;
+    color: black;
+    font-size: small;
+}
+
+
+.btn-linkedin {
+    background: #0E76A8;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461;
+  }
+  .btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff;
+  }
+  .btn-linkedin:active, .btn-linkedin:hover {
+    background: #084461;
+    color: #fff;
+  }
